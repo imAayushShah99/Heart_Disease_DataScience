@@ -10,7 +10,7 @@ This project aims to predict **heart disease** risk using **machine learning mod
 
 ## 🔍 Data & Features
 The dataset includes:
-- **Age, Sex, Blood Pressure, Cholesterol, Heart Rate**, etc.
+- **Age, Sex, ChestPainType, RestingBP, Cholesterol, FastingBS, RestingECG, MaxHR, ExerciseAngina, Oldpeak, ST_Slope.**
 - **Target Variable**: 1 = Heart Disease, 0 = No Heart Disease
 
 ## 📊 Steps Performed
